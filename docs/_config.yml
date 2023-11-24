@@ -11,9 +11,9 @@ showinSearchEngines: true
 
 
 # Set basic server info
-serverName: Darkness Ygg MC
-serverDescription: Minecraft 1.20.2 Darkness Server
-serverIP: [200:44af:2185:1df9:162b:d85d:5ca0:b967]:25565
+serverName: "Darkness Ygg MC"
+serverDescription: "Minecraft 1.20.2 Darkness Server"
+serverIP: "[200:44af:2185:1df9:162b:d85d:5ca0:b967]:25565"
 useBedrockForOnlineStatus: false
 
 
